@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenCrash/OpenCrash.iml" filepath="$PROJECT_DIR$/OpenCrash/OpenCrash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCrashProject.iml" filepath="$PROJECT_DIR$/OpenCrashProject.iml" />
+    </modules>
+  </component>
+</project>
+
